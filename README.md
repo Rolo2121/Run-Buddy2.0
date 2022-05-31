@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-[
+
 https://github.com/Rolo2121/Run-Buddy2.0
 
 ## Contribution
