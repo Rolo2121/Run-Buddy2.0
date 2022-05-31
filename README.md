@@ -9,7 +9,7 @@ A website that offers fitness training services.
 
 ## Website
 [
-](https://github.com/Rolo2121/Run-Buddy2.0)
+https://github.com/Rolo2121/Run-Buddy2.0
 
 ## Contribution
 Made with ❤️ by Jacob Bauer!
